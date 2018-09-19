@@ -1,12 +1,13 @@
 name: nem2_sdk
-description: A new flutter package project.
+description: NEM Blockchain SDK.
 version: 0.0.1
-author:
-homepage:
+author: gigonzalezs
+homepage: https://github.com/gigonzalezs
 
 dependencies:
   flutter:
     sdk: flutter
+  http: 0.11.3+16
 
 dev_dependencies:
   flutter_test:
