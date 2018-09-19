@@ -21,7 +21,7 @@ class TransactionHttp {
     };
     TransactionAnnounceRequest body =
       new TransactionAnnounceRequest(signedTransaction.payload);
-    var response = await http.put(_base_url, body: body.toJson()git , headers: headers);
+    var response = await http.put(_base_url, body: body.toJson(), headers: headers);
     if (response.statusCode == 202) {
       return TransactionAnnounceResponse.fromJson(response.body);
     }

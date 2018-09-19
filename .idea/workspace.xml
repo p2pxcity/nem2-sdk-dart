@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d43065d5-4315-4f94-a5f4-fb5508fe16f3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/infrastructure/transaction_http.dart" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/model/blockchain/network_type.dart" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/model/transaction/signed_transaction.dart" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/model/transaction/transaction_announce_messages.dart" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/model/transaction/transaction_type.dart" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/lib/nem2_sdk.dart" afterPath="$PROJECT_DIR$/lib/nem2_sdk.dart" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" afterPath="$PROJECT_DIR$/pubspec.lock" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" afterPath="$PROJECT_DIR$/pubspec.yaml" />
+      <change beforePath="$PROJECT_DIR$/lib/infrastructure/transaction_http.dart" afterPath="$PROJECT_DIR$/lib/infrastructure/transaction_http.dart" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -280,6 +267,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="36" y="51" width="1265" height="934" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896304" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
